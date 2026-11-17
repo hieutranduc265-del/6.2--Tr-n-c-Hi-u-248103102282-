@@ -9,7 +9,8 @@
 ## MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
 1. **Màn hình Chính / Tổng quan hệ thống:**
-   ![Màn hình chính](c:\Users\admin\OneDrive\Pictures\搜狗高速浏览器截图\搜狗高速浏览器截图20261117120438.png)[cite: 5]
+   ![Màn hình chính](<img width="658" height="574" alt="搜狗高速浏览器截图20261117120438" src="https://github.com/user-attachments/assets/045a02d1-3b1e-4475-81fe-2caa5e687e19" />
+)[cite: 5]
 
 2. **Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa nhân sự):**
    ![Màn hình CRUD](c:\Users\admin\OneDrive\Pictures\搜狗高速浏览器截图\搜狗高速浏览器截图20261117120558.png)[cite: 5]
